@@ -1,0 +1,19 @@
+{
+  "name": "assessment1",
+  "version": "1.0.0",
+  "description": "stg assessment1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bistungki/stg-devops-assessment1.git"
+  },
+  "author": "rizal.marsaoly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bistungki/stg-devops-assessment1/issues"
+  },
+  "homepage": "https://github.com/bistungki/stg-devops-assessment1#readme"
+}
