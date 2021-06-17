@@ -1,0 +1,1 @@
+# stg-devops-assessment1
